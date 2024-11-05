@@ -4,8 +4,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dblohm7/wingoes v0.0.0-20240820181039-f2b84150679e h1:L+XrFvD0vBIBm+Wf9sFN6aU395t7JROoai0qXZraA4U=
 github.com/dblohm7/wingoes v0.0.0-20240820181039-f2b84150679e/go.mod h1:SUxUaAK/0UG5lYyZR1L1nC4AaYYvSSYTWQSH3FPcxKU=
-github.com/edup2p/common v0.0.0-20241031093146-b09e98ff46f3 h1:izVe5G7xkJobjMJGs1Dv9pI681uQtyVbVNO8o9HzhO8=
-github.com/edup2p/common v0.0.0-20241031093146-b09e98ff46f3/go.mod h1:hX/QSxqJqhIkZxafYWxlDKpulUa6bZ2Ic1vbmi+6UJU=
+github.com/edup2p/common v0.0.0-20241105104252-8cdcfe99db10 h1:7N5kb2Qti2tY9roIg++jqk6hM2ZfWEpbQvPnl8nZ7C0=
+github.com/edup2p/common v0.0.0-20241105104252-8cdcfe99db10/go.mod h1:hX/QSxqJqhIkZxafYWxlDKpulUa6bZ2Ic1vbmi+6UJU=
 github.com/go-ole/go-ole v1.3.0 h1:Dt6ye7+vXGIKZ7Xtk4s6/xVdGDQynvom7xCFEdWr6uE=
 github.com/go-ole/go-ole v1.3.0/go.mod h1:5LS6F96DhAwUc7C+1HLexzMXY1xGRSryjyPPKW6zv78=
 github.com/google/btree v1.0.1 h1:gK4Kx5IaGY9CD5sPJ36FHiBJ6ZXl0kilRiiCj+jdYp4=
