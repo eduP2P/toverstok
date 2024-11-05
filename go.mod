@@ -1,9 +1,9 @@
 module toverstok
 
-go 1.22.0
+go 1.22.1
 
 require (
-	github.com/edup2p/common v0.0.0-20241105104252-8cdcfe99db10
+	github.com/edup2p/common v0.0.0-20241105105319-b894b6442ed4
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 )
 
